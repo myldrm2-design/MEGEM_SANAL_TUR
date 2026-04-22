@@ -1,0 +1,61 @@
+#: locale=tr
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_AB0A3C14_B402_7059_41DE_154774BFCCFD.text = BAŞKÖY MOBİLYA AVM
+HotspotPanoramaOverlayTextImage_A9D7BBC8_B403_B7CE_41B8_3EF53E4BF886.text = BAŞKÖY MOBİLYA AVM
+HotspotPanoramaOverlayTextImage_A9A1AF9F_B40E_5048_41D1_DF8EE0F40CE7.text = BAŞKÖY MOBİLYA AVM
+HotspotPanoramaOverlayTextImage_AA407201_B41E_D03F_41DD_466595D4CDE3.text = BAŞKÖY MOBİLYA AVM
+HotspotPanoramaOverlayTextImage_AAA6F5AF_B406_D041_41E0_B13688A122B7.text = Bursa - İzmir Otoban Bağlantı yolu
+HotspotPanoramaOverlayTextImage_A8CDBDB2_B406_B052_41DD_186857D15490.text = Bursa Yönü
+HotspotPanoramaOverlayTextImage_A96B1851_B402_50D1_41C6_7412A5871AD2.text = MEGEM PLASTİK
+HotspotPanoramaOverlayTextImage_A9E023FF_B47D_B7D1_41E5_158739402D78.text = MİNTEKS
+HotspotPanoramaOverlayTextImage_AA2AD8A9_B403_D04E_41E0_80CE5DDF4399.text = MİNTEKS
+HotspotPanoramaOverlayTextImage_A93A0968_B402_70F5_41DD_B761CF334879.text = MİNTEKS
+HotspotPanoramaOverlayTextImage_AA31FC29_B41E_504F_41D2_BBFF5E7E7A27.text = MİNTEKS
+HotspotPanoramaOverlayTextImage_AA69CFFF_B40D_EFC9_41D8_88B95BAF2D80.text = NETLOG LOGISTIC
+HotspotPanoramaOverlayTextImage_AA008D03_B41D_B043_41E2_5E7140294497.text = NETLOG LOGISTIC
+HotspotPanoramaOverlayTextImage_A98492AE_B41E_B045_41E0_9DBD66CF6D00.text = NETLOG LOGISTIC
+HotspotPanoramaOverlayTextImage_A96F43BA_B406_B05D_41CA_F3AD1405A1BB.text = İzmir Yönü
+
+### Tooltip
+HotspotPanoramaOverlayArea_AFB1585C_B405_D029_4160_067A36AB6CA3.toolTip = Minteks
+
+## Media
+
+### Image
+imlevel_965DBA31_B402_D040_41B6_0333909FE717.url = media/panorama_AD394D7B_B402_D0F6_41E3_583CBEF9BED4_HS_hv2u7bdf_tr.webp
+imlevel_965F5A49_B402_D0C0_41D4_FD2AEA47F257.url = media/panorama_AD394D7B_B402_D0F6_41E3_583CBEF9BED4_HS_qidvlyot_tr.webp
+imlevel_965C9A13_B402_D040_41C3_D608D5F6E3FA.url = media/panorama_AD394D7B_B402_D0F6_41E3_583CBEF9BED4_HS_xtl5vg2m_tr.webp
+imlevel_96581A69_B402_D0C0_41A2_B010D7F83153.url = media/panorama_AD3B6559_B402_B035_41E2_59DD12BC3317_HS_3q2q4yrp_tr.webp
+imlevel_96595A7C_B402_D0C0_41D1_D8AB03BEF27C.url = media/panorama_AD3B6559_B402_B035_41E2_59DD12BC3317_HS_jhwwdufx_tr.webp
+imlevel_965A1AAC_B402_D040_41B5_E3DB516A2E81.url = media/panorama_AD3B6559_B402_B035_41E2_59DD12BC3317_HS_xs6hwcd2_tr.webp
+imlevel_95AAC880_B402_D040_41E4_19E0B9C09422.url = media/panorama_AD3E723E_B402_506F_41E2_4403143278EE_HS_02n5dgvb_tr.webp
+imlevel_95A3D81F_B402_D040_41D5_C4E5A7B1203B.url = media/panorama_AD3E723E_B402_506F_41E2_4403143278EE_HS_76a5hnz2_tr.webp
+imlevel_9655A8FE_B402_D1C0_41E2_6CEEDE7D9BBE.url = media/panorama_AD3E723E_B402_506F_41E2_4403143278EE_HS_l8ge1qim_tr.webp
+imlevel_95A16804_B402_D040_41D8_9C1D63AF7874.url = media/panorama_AD3E723E_B402_506F_41E2_4403143278EE_HS_nb1nlewc_tr.webp
+imlevel_95A88847_B402_D0C0_41B2_D9A8490D1835.url = media/panorama_AD3E723E_B402_506F_41E2_4403143278EE_HS_nsjuks2w_tr.webp
+imlevel_95ABE8A6_B402_D040_41CA_A968F2C6282D.url = media/panorama_AD3E723E_B402_506F_41E2_4403143278EE_HS_pa1o8nqj_tr.webp
+imlevel_9651A9AD_B402_D040_4184_DCC3E54028CC.url = media/panorama_AE5674DA_B402_D036_41DB_252FCD882930_HS_hox4e3sl_tr.webp
+imlevel_9652A9C5_B402_D3C0_41CE_D3B284E7406D.url = media/panorama_AE5674DA_B402_D036_41DB_252FCD882930_HS_lwvruhju_tr.webp
+imlevel_9650A98F_B402_D040_41DC_3D4CFEBB83E8.url = media/panorama_AE5674DA_B402_D036_41DB_252FCD882930_HS_th512hs0_tr.webp
+
+### Title
+panorama_AE5674DA_B402_D036_41DB_252FCD882930.label = 1-Kapı Kapalı
+panorama_AD394D7B_B402_D0F6_41E3_583CBEF9BED4.label = 2-Kapı Açık
+panorama_AD3B6559_B402_B035_41E2_59DD12BC3317.label = 3-Karşıdan
+panorama_AD3E723E_B402_506F_41E2_4403143278EE.label = 4-Minteks
+photo_AF88D592_B402_7026_41D6_E969D4FD93FF.label = Minteks_İzmir Yolu
+
+## Popup
+
+### Body
+htmlText_AFF3C1D2_B402_503D_41E3_8E5B76E8DFCA.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Minteks / İzmir Yolu</SPAN></DIV></BODY></HTML></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = MEGEM PLASTİK
